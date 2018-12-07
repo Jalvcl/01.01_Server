@@ -1,3 +1,6 @@
 #cloud-config
 ssh_authorized_keys:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDa47f8J+JpvwFdssMaUA3sFJIYZ3MiJZKklszKYPlQe3yrDul9uayGQ5JgL5vwWrnq++4BdIypRzDOwAonHtWmnPzoPbE3gfnuSfPoZecwD5oCn//PbH7RDhvdBcu6/m9dlS5D+41T5I74CHtulEFx5GS4Pn550kwA2Pgov1hX7CCWsiNuca2OZbf/dFVpvOR6+Rn/gyF9t1cv+DaMvD16zmaDtJccoDkBNb85oWIGPVsZleX0zv2Ti76cdroOA9d7Ouc3tvQt2k7CqLt4jUQM8Rh4/wgyL2SAjqFFyJ/7kC9svmW/TuimAVRjG2dRS6LT+fCWaH3NmGBznQvaDItD jalv@T06MBP.local
+rancher:
+  console: ubuntu
+hostname: onlv
